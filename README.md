@@ -29,7 +29,8 @@ By doing this, the dashboard we built will not only answer the initial set of qu
 
 ## AIMS Grid:
 By using the AIMS grid project management tool, we made sure what are the purpose, stakeholder, end result and success criteria of our project.
-![AIMS Grid](https://github.com/user-attachments/assets/0dc33a4c-1b6c-4afe-bf23-cef15b594c75)
+![Uploading AIMS Grid.png…]()
+
 
 
 
